@@ -1,0 +1,12 @@
+D:\Community\git\servicemonitor\ServiceMonitor\bin\Release\ServiceMonitor.exe
+D:\Community\git\servicemonitor\ServiceMonitor\bin\Release\ServiceMonitor.pdb
+D:\Community\git\servicemonitor\ServiceMonitor\obj\x86\Release\ServiceMonitor.csprojResolveAssemblyReference.cache
+D:\Community\git\servicemonitor\ServiceMonitor\obj\x86\Release\ServiceMonitor.FrmHome.resources
+D:\Community\git\servicemonitor\ServiceMonitor\obj\x86\Release\ServiceMonitor.frmListServices.resources
+D:\Community\git\servicemonitor\ServiceMonitor\obj\x86\Release\ServiceMonitor.frmLogon.resources
+D:\Community\git\servicemonitor\ServiceMonitor\obj\x86\Release\ServiceMonitor.frmManage.resources
+D:\Community\git\servicemonitor\ServiceMonitor\obj\x86\Release\ServiceMonitor.frmStatus.resources
+D:\Community\git\servicemonitor\ServiceMonitor\obj\x86\Release\ServiceMonitor.Properties.Resources.resources
+D:\Community\git\servicemonitor\ServiceMonitor\obj\x86\Release\ServiceMonitor.csproj.GenerateResource.Cache
+D:\Community\git\servicemonitor\ServiceMonitor\obj\x86\Release\ServiceMonitor.exe
+D:\Community\git\servicemonitor\ServiceMonitor\obj\x86\Release\ServiceMonitor.pdb

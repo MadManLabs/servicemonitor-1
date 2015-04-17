@@ -10,3 +10,5 @@ D:\Community\ServiceMonitor\ServiceMonitor-prod\ServiceMonitor\obj\x86\Debug\Ser
 D:\Community\ServiceMonitor\ServiceMonitor-prod\ServiceMonitor\obj\x86\Debug\ServiceMonitor.csproj.GenerateResource.Cache
 D:\Community\ServiceMonitor\ServiceMonitor-prod\ServiceMonitor\obj\x86\Debug\ServiceMonitor.exe
 D:\Community\ServiceMonitor\ServiceMonitor-prod\ServiceMonitor\obj\x86\Debug\ServiceMonitor.pdb
+D:\Community\git\servicemonitor\ServiceMonitor\obj\x86\Debug\ServiceMonitor.exe
+D:\Community\git\servicemonitor\ServiceMonitor\obj\x86\Debug\ServiceMonitor.pdb
